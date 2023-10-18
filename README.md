@@ -26,11 +26,13 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=563D7C)&nbsp;
 ![kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP&logoColor=563D7C)&nbsp;
+![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=XML&logoColor=563D7C)&nbsp;
 ![Spss](https://img.shields.io/badge/-Spss-05122A?style=flat&logo=Spss&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=SQLServer)&nbsp;
-
+![RESTFul API](https://img.shields.io/badge/-RESTFul_API-05122A?style=flat&logo=RESTFul_API&logoColor=563D7C)&nbsp;
 
 
 
