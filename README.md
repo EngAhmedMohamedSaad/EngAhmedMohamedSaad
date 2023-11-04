@@ -15,7 +15,7 @@
 - 👨‍💻 I got a Bachelor of Business Administration with distinction with honors and the first in the batch, then I got a postgraduate diploma in computer science with a grade of Very good at Cairo University.
 - 💬 Ask me about my experience with Androidstudio,  Java, SQLServer and .Net or anything related to androidstudio.
 - 👨‍💻 I love sharing my experience with others. and I also love to learn something new every single day
-💬 Please feel free to contact me at:
+- 💬 Please feel free to contact me at:
     +201025322080
     eng.ahmedsaad22@gmail.com
 
