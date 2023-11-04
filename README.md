@@ -11,10 +11,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Android%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I am an Android Developer and have good presentation skills. 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm an Android Developer and have good presentation skills. I love sharing my experience with others. and I also love to learn something new every single day. 
+- 👨‍💻 I got a Bachelor of Business Administration with distinction with honors and the first in the batch, then I got a postgraduate diploma in computer science with a grade of Very good at Cairo University.
 - 💬 Ask me about my experience with Androidstudio,  Java, SQLServer and .Net or anything related to androidstudio.
 - 👨‍💻 I love sharing my experience with others. and I also love to learn something new every single day
+💬 Please feel free to contact me at:
+    +201025322080
+    eng.ahmedsaad22@gmail.com
 
 
 ### Connect with Me :
