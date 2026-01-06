@@ -1,3 +1,17 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Developer Illustration" width="250"/>
+  <h1>Hello World! I'm Ahmed Mohamed Saad 👋</h1>
+  <p>
+    <strong>Certified Android Developer | Full-Stack Engineer | Impact-Driven Problem Solver</strong>
+  </p>
+  <p>
+    I transform complex challenges into scalable, high-performance software solutions.
+    My expertise spans the full mobile app lifecycle (Kotlin/Java ) and robust web development (Supabase/JavaScript), with a proven track record of delivering measurable business impact.
+  </p>
+</div>
+
+
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
