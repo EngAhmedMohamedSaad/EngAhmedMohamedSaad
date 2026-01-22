@@ -114,7 +114,7 @@ Certified Android Developer with **3+ years** of experience in full mobile app l
   
 </div>
 
-<br><br><br><br><br><br><br>
+<br clear="both">
 
 ## 🎓 Education
 
